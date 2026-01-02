@@ -1,3 +1,7 @@
+[Github Contribution Graph Hack](https://www.youtube.com/watch?v=2q--gA97caM)
+
+---
+
 # 🚨 SECURITY WARNING: SCAM ALERT 🚨
 
 **DO NOT USE THIS CODE. THIS IS A HONEYPOT SCAM.**
