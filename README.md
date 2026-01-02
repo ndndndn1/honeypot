@@ -1,3 +1,30 @@
+# 🚨 SECURITY WARNING: SCAM ALERT 🚨
+
+**DO NOT USE THIS CODE. THIS IS A HONEYPOT SCAM.**
+
+This repository is a **Smart Contract Honeypot**.
+It is a program designed to display a **fake trading interface** to trick users into **deploying a malicious contract** and **depositing their own funds** into it.
+
+### ⚠️ How it works (The Trap):
+1. **Fake Visuals:** The `AITradingCode.html` displays fabricated charts and trading logs using random number generators (`Math.random()`). It is **NOT** connected to any real exchange.
+2. **The Hook:** It asks you to "Deploy" a bot to start trading.
+3. **The Theft:** When you click "Initialize", it transfers your ETH to the scammer's contract. **There is no withdraw function.**
+
+---
+
+# 🚨 보안 경고: 스캠(사기) 주의 🚨
+
+**절대 이 코드를 실행하거나 지갑을 연결하지 마십시오.**
+
+이 저장소는 **스마트 컨트랙트 허니팟(Honeypot) 스캠**입니다.
+이 코드는 **화려한 가짜 트레이딩 화면**을 보여주며, 사용자가 **스스로 악성 컨트랙트를 배포**하고 그곳에 **돈(ETH)을 입금하게 만드는 악성 프로그램**입니다.
+
+### ⚠️ 사기 수법:
+1. **가짜 화면:** `AITradingCode.html` 파일은 실제 시장 데이터가 아닌 난수(Random Number)를 생성하여 수익이 나는 것처럼 연출된 화면일 뿐입니다.
+2. **유인:** 사용자가 'Deploy(배포)' 버튼을 누르게 하여 가스비를 소모시키고 악성 계약을 블록체인에 올리게 합니다.
+3. **탈취:** 'Initialize(시작)' 버튼을 눌러 입금하는 순간, 귀하의 이더리움은 스캐머에게 전송되며 **절대 출금할 수 없습니다.**
+---
+
 # Algorithmic Trading and Investment Automation on YouTube 📈💻
 
 [![Download Releases](https://img.shields.io/badge/Download%20Releases-brightgreen)](https://github.com/cutkoskyyy/Youtube/releases)
